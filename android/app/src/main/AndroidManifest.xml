@@ -15,7 +15,7 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="TaskApp"
-        android:icon="@mipmap/TaskTodo">
+        android:icon="@mipmap/tasktodo">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
